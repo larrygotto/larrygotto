@@ -19,7 +19,7 @@
   ##
   
   <div> 
-  <a href = "mailto:leorigotto@me.com"><img src="https://img.shields.io/badge/-Email-%23334?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leorigotto@me.com"><img src="https://img.shields.io/badge/-Mail%20me-%23314?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leorigotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.github.com/larrygotto/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%2300687B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://www.github.com/larrygotto/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230048B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
