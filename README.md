@@ -1,4 +1,4 @@
-### Hey there! I'm Leo Rigotto, a software developer creating amazing stuff :)
+### Hey there! I'm Leo Rigotto, a software developer creating amazing things :)
 
 <br>
 <div align="center">
